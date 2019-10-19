@@ -1,0 +1,20 @@
+h1{
+
+color:red;
+text-align: center;
+
+}
+#t{
+
+    color:green;
+    
+}
+.r{
+    color:blue;
+}
+p{
+
+    text-align: center;
+    backdrop-filter: color: red ;
+    margin:10px ;
+}
